@@ -1,0 +1,251 @@
+{
+  "createdTime": "2023-11-26T23:57:13.813Z",
+  "modifiedTime": "2024-05-03T05:06:39.634Z",
+  "deviceSettings": [{
+    "deviceTag": -222799973,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A307G",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-04-05T09:56:04.938Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-04-05T09:56:04.938Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a30sub",
+      "device": "a30s",
+      "model": "SM-A307G",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": -1645201029,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A307G",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-03-28T21:48:36.400Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-04-19T02:35:01.715Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a30sub",
+      "device": "a30s",
+      "model": "SM-A307G",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": -1999772263,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A115F",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-03-16T23:42:22.614Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-05-03T05:06:38.924Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a11qnnxx",
+      "device": "a11q",
+      "model": "SM-A115F",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": 1386175872,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A115F",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-03-16T20:56:59.137Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-05-03T05:06:39.634Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a11qnnxx",
+      "device": "a11q",
+      "model": "SM-A115F",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": 770785668,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A307G",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-03-13T09:21:52.965Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-03-13T09:21:52.965Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a30sub",
+      "device": "a30s",
+      "model": "SM-A307G",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": 95394428,
+    "reportingEnabled": true,
+    "devicePrettyName": "moto e5 play",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-01-23T05:46:55.520Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-01-23T05:46:55.520Z"
+    },
+    "androidOsLevel": 27,
+    "deviceSpec": {
+      "manufacturer": "motorola",
+      "brand": "motorola",
+      "product": "pettyl_amx",
+      "device": "pettyl",
+      "model": "moto e5 play",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": 396989951,
+    "reportingEnabled": false,
+    "devicePrettyName": "moto e5 play",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-12-02T03:48:42.525Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-01-14T08:22:32.105Z"
+    },
+    "androidOsLevel": 27,
+    "deviceSpec": {
+      "manufacturer": "motorola",
+      "brand": "motorola",
+      "product": "pettyl_amx",
+      "device": "pettyl",
+      "model": "moto e5 play",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": -685975531,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-X200",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-11-29T05:09:30.437Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-11-30T18:09:01.687Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "gta8wifixx",
+      "device": "gta8wifi",
+      "model": "SM-X200",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": 142037270,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A307G",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-11-27T06:18:09.096Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-11-30T18:08:56.237Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a30sub",
+      "device": "a30s",
+      "model": "SM-A307G",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": -1468609118,
+    "reportingEnabled": false,
+    "devicePrettyName": "V2027",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-11-26T23:57:13.813Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-01-14T08:22:31.166Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "vivo",
+      "brand": "vivo",
+      "product": "2027E",
+      "device": "2027",
+      "model": "V2027",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": true,
+  "encryptedBackupsControls": {
+    "-1645201029": {
+      "enabled": false
+    },
+    "-1999772263": {
+      "enabled": false
+    },
+    "-1468609118": {
+      "enabled": false
+    },
+    "1386175872": {
+      "enabled": false
+    },
+    "-685975531": {
+      "enabled": false
+    },
+    "770785668": {
+      "enabled": false
+    },
+    "396989951": {
+      "enabled": false
+    },
+    "95394428": {
+      "enabled": false
+    },
+    "-222799973": {
+      "enabled": false
+    },
+    "142037270": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647,
+    "updateTime": "2024-03-28T23:45:58.790260430Z"
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2024-04-26T16:00:58.168Z",
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2023-11-27T05:54:49.448Z"
+  }
+}
